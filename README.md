@@ -1,1 +1,1 @@
-# the_pantry assignment
+# Github checkpoint assignment
